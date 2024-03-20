@@ -2,31 +2,43 @@
     text-align: center;
     color: hsl(0, 0%, 100%);
     font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(0, 0%, 8%);
 }
 img{
     border-radius: 50%;
 }
 #div2{
     font-weight: 700;
+    background-color: hsl(0, 0%,12%);
 }
 #Adress{
     color:hsl(75, 94%, 57%);
     margin-bottom: 35px;
     font-weight: 400;
-    
+    background-color: hsl(0, 0%, 12%);
 }
 #div1{
  background-color: hsl(0, 0%, 12%);
- border-style: solid;
+ border-style: hidden;
  border-radius: 25px;
  margin-left: 625px;
  margin-right: 625px;
+ margin-top: 100px;
  padding: 50px;
+}
+#div3{
+    background-color: hsl(0, 0%, 12%);  
+}
+#div4{
+    background-color: hsl(0, 0%, 12%); 
 }
 a:link{
     text-decoration: none;
     font-weight: 600;
-    
+   
+}
+a{
+    background-color:hsl(0, 0%, 20%) ;
 }
 
 #link1{
@@ -38,7 +50,7 @@ a:link{
     border-radius: 10px;
 }
 #link2{
-    background-color:#333333 ;
+    background-color:hsl(0, 0%, 20%) ;
     border-style: hidden;
     border-width: thin;
     margin: 15px;
@@ -46,7 +58,7 @@ a:link{
     border-radius: 10px;
 }
 #link3{
-    background-color:#333333 ;
+    background-color:hsl(0, 0%, 20%) ;
     border-style: hidden;
     border-width: thin;
     margin: 15px;
@@ -54,7 +66,7 @@ a:link{
     border-radius: 10px;
 }
 #link4{
-    background-color:#333333 ;
+    background-color:hsl(0, 0%, 20%) ;
     border-style: hidden;
     border-width: thin;
     margin: 15px;
@@ -62,7 +74,7 @@ a:link{
     border-radius: 10px;
 }
 #link5{
-    background-color:#333333 ;
+    background-color:hsl(0, 0%, 20%) ;
     border-style: hidden;
     border-width: thin;
     margin: 15px;
